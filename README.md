@@ -1,2 +1,7 @@
-# myWeb - COMING SOON JAN 2026!!
+# myWeb - Project On HOLD
+
+
 myWeb is a website builder, made from premade blocks (i.e botghost, scratch), it acts as a opening to easier frontend development. Design and your ui (like figma) and build actions and events or even program those blocks. Make your Website today!
+
+
+- this is on hold whilst I focus on other projects.
